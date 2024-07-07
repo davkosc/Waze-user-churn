@@ -1,6 +1,6 @@
-# Portfolio
+# Project portfolio
 
-This repository contains select projects I have developed, primarily in the form of Jupyter Notebooks using Python.
+This repository contains select projects I have developed.
 
 **Waze user churn project**
 
