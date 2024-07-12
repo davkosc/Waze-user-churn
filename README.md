@@ -6,6 +6,6 @@ The dataset consists of several variables on user information since onboarding (
 
 The project is split into three notebooks:
 
-    (['Waze_user_churn_1_EDA'](https://github.com/davkosc/project-portfolio/blob/main/Waze_user_churn_1_EDA.ipynb)), with exploratory data analysis and feature engineering
-    (['Waze_user_churn_2_logistic'](https://github.com/davkosc/project-portfolio/blob/main/Waze_user_churn_2_logistic.ipynb)), which includes constructing and evaluating a logistic regression model
-    'Waze_user_churn_3_ml_modeling', which includes the same for two tree-based machine learning models (random forest and XGBoost)
+*(['Waze_user_churn_1_EDA'](https://github.com/davkosc/project-portfolio/blob/main/Waze_user_churn_1_EDA.ipynb)), with exploratory data analysis and feature engineering
+*(['Waze_user_churn_2_logistic'](https://github.com/davkosc/project-portfolio/blob/main/Waze_user_churn_2_logistic.ipynb)), which includes constructing and evaluating a logistic regression model
+*'Waze_user_churn_3_ml_modeling', which includes the same for two tree-based machine learning models (random forest and XGBoost)
