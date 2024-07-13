@@ -1,6 +1,6 @@
 # Waze user churn
 
-This repository contains Python notebooks and datasets for a project meant to predict user churn from the Waze app. Data was provided by the Google Advanced Data Analytis professional certificate.
+This repository contains Python notebooks and datasets for a project designed to predict user churn from the Waze app. Data was provided by the Google Advanced Data Analytis professional certificate.
 
 The dataset consists of several variables on user information since onboarding (joining the app), and some gathered over the period of one month. Major packages used to conduct this analysis include Matplotlib, NumPy, pandas, scikit-learn, and seaborn. 
 
